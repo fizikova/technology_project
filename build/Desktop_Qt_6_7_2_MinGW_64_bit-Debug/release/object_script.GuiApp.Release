@@ -1,0 +1,15 @@
+release/database.o
+release/main.o
+release/mainwindow.o
+release/loginwindow.o
+release/registerwindow.o
+release/taskwindow.o
+release/server.o
+release/functionsforserver.o
+release/chord.o
+release/vigener.o
+release/moc_mainwindow.o
+release/moc_loginwindow.o
+release/moc_registerwindow.o
+release/moc_taskwindow.o
+release/moc_server.o

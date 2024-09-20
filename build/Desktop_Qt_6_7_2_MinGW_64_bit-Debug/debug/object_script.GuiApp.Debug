@@ -1,0 +1,15 @@
+debug/database.o
+debug/main.o
+debug/mainwindow.o
+debug/loginwindow.o
+debug/registerwindow.o
+debug/taskwindow.o
+debug/server.o
+debug/functionsforserver.o
+debug/chord.o
+debug/vigener.o
+debug/moc_mainwindow.o
+debug/moc_loginwindow.o
+debug/moc_registerwindow.o
+debug/moc_taskwindow.o
+debug/moc_server.o
