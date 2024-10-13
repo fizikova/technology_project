@@ -1,0 +1,11 @@
+debug/main.o
+debug/mainmenu.o
+debug/login.o
+debug/register.o
+debug/hordmethod.o
+debug/imageembed.o
+debug/moc_mainmenu.o
+debug/moc_login.o
+debug/moc_register.o
+debug/moc_hordmethod.o
+debug/moc_imageembed.o

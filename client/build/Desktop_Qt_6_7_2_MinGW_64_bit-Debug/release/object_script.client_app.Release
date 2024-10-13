@@ -1,0 +1,11 @@
+release/main.o
+release/mainmenu.o
+release/login.o
+release/register.o
+release/hordmethod.o
+release/imageembed.o
+release/moc_mainmenu.o
+release/moc_login.o
+release/moc_register.o
+release/moc_hordmethod.o
+release/moc_imageembed.o
