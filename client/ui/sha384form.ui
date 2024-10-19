@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SHA384Form</class>
+ <widget class="QWidget" name="SHA384Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>SHA-384 Хеширование</string>
+  </property>
+  <widget class="QLabel" name="labelText">
+   <property name="text">
+    <string>Текст:</string>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>50</y>
+     <width>60</width>
+     <height>30</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="textField">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>50</y>
+     <width>200</width>
+     <height>30</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hashButton">
+   <property name="text">
+    <string>Хешировать</string>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>100</y>
+     <width>100</width>
+     <height>30</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelResult">
+   <property name="text">
+    <string>Результат:</string>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>150</y>
+     <width>60</width>
+     <height>30</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="resultField">
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>150</y>
+     <width>200</width>
+     <height>30</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="backButton">
+   <property name="text">
+    <string>Назад</string>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>250</y>
+     <width>100</width>
+     <height>30</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
